@@ -1,0 +1,6 @@
+{
+    "mongoURI" :"mongodb+srv://kumar123:kumar123@roommateconnecter-uk2il.mongodb.net/ROOMMATE_CONNECTOR?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "50ae389bf711c7d825e1",
+    "githubSecret" : "8561e4ede4528042ca7d1180a4594019a670adeb"
+}
